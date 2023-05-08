@@ -1,1 +1,1 @@
-# Cicd_Deployment_Springboot
+# cicd-applied-to-spring-boot-java-project
